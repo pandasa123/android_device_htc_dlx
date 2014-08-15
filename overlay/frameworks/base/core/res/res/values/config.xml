@@ -22,7 +22,7 @@
 <resources>
 
     <!-- disable menu hard key in non-pattern lockscreen -->
-    <bool name="config_disableMenuKeyInLockScreen">true</bool>
+    <!--<bool name="config_disableMenuKeyInLockScreen">true</bool> -->
 
     <!-- Set to false to enable CRT-off animation. -->
     <bool name="config_animateScreenLights">false</bool>
@@ -244,13 +244,13 @@
     <bool name="config_deviceHasVariableButtonBrightness">true</bool>
 
     <!-- Device supports LED flashlight -->
-    <bool name="config_enableTorch">true</bool>
+    <!-- <bool name="config_enableTorch">true</bool> -->
 
     <!-- Disable lockscreen translucent decor by default -->
-    <bool name="config_enableLockScreenTranslucentDecor">true</bool>
+    <!-- <bool name="config_enableLockScreenTranslucentDecor">true</bool>-->
 
     <!-- Performance profiles -->
-    <string name="config_perf_profile_prop">sys.perf.profile</string>
-    <string name="config_perf_profile_default_entry">1</string>
+    <!--<string name="config_perf_profile_prop">sys.perf.profile</string>-->
+    <!--<string name="config_perf_profile_default_entry">1</string>-->
 
 </resources>
