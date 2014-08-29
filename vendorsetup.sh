@@ -1,1 +1,1 @@
-add_lunch_combo slim_dlx-eng
+add_lunch_combo slim_dlx-userdebug
